@@ -17,7 +17,7 @@ Frameworks downloaded from: [Facebook SDK](https://origincache.facebook.com/deve
 
 Frameworks downloaded from: [Twitter SDK*](https://ton.twimg.com/syndication/twitterkit/ios/2.1/Twitter-Kit-iOS.zip)
 
-*Those frameworks are for version 3.1. The 2.8 version are imported manually from an old project we are using
+*These frameworks are for version 3.1. The 2.8 version are imported manually from an old project we are using
 
 ## Integrations
 
