@@ -64,7 +64,7 @@ Be sure that the Info.plist has the same keys than another working framework. Ke
 
 ### Zip files error
 
-When uploading a new framework, is a common error than the zip generated contains MACOS files that hides some important files when carthage unzip the frameworks.
+When uploading a new framework, is a common error that the zip generated contains MACOS files that hides some important files when carthage unzip the frameworks.
 
 The error show by carthage is like `Failed to read file or folder at /private/var/blablabla/__MACOSX/theframework.framework bla bla bla`
 
