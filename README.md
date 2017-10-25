@@ -68,7 +68,7 @@ When uploading a new framework, is a common error than the zip generated contain
 
 The error show by carthage is like `Failed to read file or folder at /private/var/blablabla/__MACOSX/theframework.framework bla bla bla`
 
-Ensure that the zip uploaded to this repo, doesn't hace MACOSX folder.
+Be sure that the zip uploaded to this repo, doesn't have MACOSX folders or files.
 
 Check the zip with
 
