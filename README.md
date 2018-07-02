@@ -23,11 +23,11 @@ Frameworks downloaded from: [Twitter SDK*](https://ton.twimg.com/syndication/twi
 
 ### Cartfile
 
-Facebook v4.27
+Facebook v4.34.1
 ```
-binary "https://raw.githubusercontent.com/gigigoapps/ios-binary-dependencies/master/facebook/bolts/bolts.json" ~> 4.27
-binary "https://raw.githubusercontent.com/gigigoapps/ios-binary-dependencies/master/facebook/corekit/corekit.json" ~> 4.27
-binary "https://raw.githubusercontent.com/gigigoapps/ios-binary-dependencies/master/facebook/loginkit/loginkit.json" ~> 4.27
+binary "https://raw.githubusercontent.com/gigigoapps/ios-binary-dependencies/master/facebook/bolts/bolts.json" ~> 4.34.1
+binary "https://raw.githubusercontent.com/gigigoapps/ios-binary-dependencies/master/facebook/corekit/corekit.json" ~> 4.34.1
+binary "https://raw.githubusercontent.com/gigigoapps/ios-binary-dependencies/master/facebook/loginkit/loginkit.json" ~> 4.34.1
 ```
 
 Twitter v2.8
