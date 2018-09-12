@@ -19,6 +19,11 @@ Frameworks downloaded from: [Twitter SDK*](https://ton.twimg.com/syndication/twi
 
 *These frameworks are for version 3.1. The 2.8 version are imported manually from an old project we are using
 
+### Vuforia
+* Vuforia
+
+Framework downloaded from: [Vuforia SDK*](https://developer.vuforia.com/downloads/sdk)
+
 ## Integrations
 
 ### Cartfile
@@ -41,6 +46,11 @@ Twitter v3.1 (Fabric is not needed anymore)
 ```
 binary "https://raw.githubusercontent.com/gigigoapps/ios-binary-dependencies/master/twitter/twittercore/twittercore.json" ~> 3.1
 binary "https://raw.githubusercontent.com/gigigoapps/ios-binary-dependencies/master/twitter/twitterkit/twitterkit.json" ~> 3.1
+```
+
+Vuforia
+```
+binary "https://raw.githubusercontent.com/gigigoapps/ios-binary-dependencies/master/vuforia/vuforia.json" ~> 7.2
 ```
 
 ## FAQ
