@@ -1,5 +1,6 @@
 {
 	"7.2.23": "https://github.com/gigigoapps/ios-binary-dependencies/raw/master/vuforia/7.2.23/Vuforia.framework.zip",
 	"7.5.20": "https://github.com/gigigoapps/ios-binary-dependencies/raw/master/vuforia/7.5.20/Vuforia.framework.zip",
-	"7.5.26": "https://github.com/gigigoapps/ios-binary-dependencies/raw/master/vuforia/7.5.26/Vuforia.framework.zip"
+	"7.5.26": "https://github.com/gigigoapps/ios-binary-dependencies/raw/master/vuforia/7.5.26/Vuforia.framework.zip",
+	"8.0.10": "https://github.com/gigigoapps/ios-binary-dependencies/raw/master/vuforia/8.0.10/Vuforia.framework.zip"
 }
