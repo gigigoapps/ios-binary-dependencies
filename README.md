@@ -28,11 +28,11 @@ Framework downloaded from: [Vuforia SDK*](https://developer.vuforia.com/download
 
 ### Cartfile
 
-Facebook v4.39.1
+Facebook v4.40.0
 ```
-binary "https://raw.githubusercontent.com/gigigoapps/ios-binary-dependencies/master/facebook/bolts/bolts.json" ~> 4.39.1
-binary "https://raw.githubusercontent.com/gigigoapps/ios-binary-dependencies/master/facebook/corekit/corekit.json" ~> 4.39.1
-binary "https://raw.githubusercontent.com/gigigoapps/ios-binary-dependencies/master/facebook/loginkit/loginkit.json" ~> 4.39.1
+binary "https://raw.githubusercontent.com/gigigoapps/ios-binary-dependencies/master/facebook/bolts/bolts.json" ~> 4.40.0
+binary "https://raw.githubusercontent.com/gigigoapps/ios-binary-dependencies/master/facebook/corekit/corekit.json" ~> 4.40.0
+binary "https://raw.githubusercontent.com/gigigoapps/ios-binary-dependencies/master/facebook/loginkit/loginkit.json" ~> 4.40.0
 ```
 
 Twitter v2.8
