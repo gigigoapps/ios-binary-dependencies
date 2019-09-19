@@ -6,5 +6,6 @@
 	"4.39.0": "https://github.com/gigigoapps/ios-binary-dependencies/raw/master/facebook/loginkit/4.39.0/FBSDKLoginKit.framework.zip",
     "4.39.1": "https://github.com/gigigoapps/ios-binary-dependencies/raw/master/facebook/loginkit/4.39.1/FBSDKLoginKit.framework.zip",
     "4.40.0": "https://github.com/gigigoapps/ios-binary-dependencies/raw/master/facebook/loginkit/4.40.0/FBSDKLoginKit.framework.zip",
-    "5.0.1": "https://github.com/gigigoapps/ios-binary-dependencies/raw/master/facebook/loginkit/5.0.1/FBSDKLoginKit.framework.zip"
+    "5.0.1": "https://github.com/gigigoapps/ios-binary-dependencies/raw/master/facebook/loginkit/5.0.1/FBSDKLoginKit.framework.zip",
+    "5.6.0": "https://github.com/gigigoapps/ios-binary-dependencies/raw/master/facebook/loginkit/5.6.0/FBSDKLoginKit.framework.zip"
 }
